@@ -1,6 +1,6 @@
 <h1>Bananaphone: Reverse Hash Encoding</h1>
 
-<p>Leif Ryge <leif@synthesize.us>
+<p>by Leif Ryge - leif@synthesize.us
 <br/>No Rights Reserved, Uncopyright 2011</p>
 
 <p>This is an implementation of a steganographic encoding scheme which transforms
